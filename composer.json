@@ -1,0 +1,14 @@
+{
+    "name": "bots/test",
+    "description": "test telegram bot",
+    "authors": [
+        {
+            "name": "3plo",
+            "email": "bplotka.1996@gmail.com"
+        }
+    ],
+    "require": {
+        "longman/telegram-bot": "^0.55.1",
+        "phpunit/phpunit": "^5"
+    }
+}

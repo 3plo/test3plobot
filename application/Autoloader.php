@@ -7,8 +7,6 @@
  */
 
 namespace application;
-
-
 class Autoloader
 {
     public function loadClass($class)
